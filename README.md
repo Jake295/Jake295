@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * 🌍  I'm based in Phoenix, AZ
 * 🖥️  See my portfolio at [https://jake-odell.com/](http://jake-odell.com/)
 * ✉️  You can contact me at [jakeodell66@gmail.com](mailto:jakeodell66@gmail.com)
-* 🧠  I'm learning Python & Android app development
+* 🧠  I'm learning Python, Spring, & REST
 
 ### Skills
 
