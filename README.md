@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Jake O'Dell
 ===================================================================================================================================
 
-* 🌍  I'm based in Phoenix, AZ
+* 🌍  I'm based in Scottsdale, AZ
 * 🖥️  See my portfolio at [https://jake-odell.com/](http://jake-odell.com/)
 * ✉️  You can contact me at [jakeodell66@gmail.com](mailto:jakeodell66@gmail.com)
 * 🧠  Finishing my degree in SWE & side projects
